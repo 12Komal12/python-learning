@@ -1,4 +1,4 @@
-
+1st method:
 a=int(input("Enter the number:"))
 print("2",'*',1,'=',2*1)
 print("2",'*',2,'=',2*2)
@@ -11,6 +11,7 @@ print("2",'*',8,'=',2*8)
 print("2",'*',9,'=',2*9)
 print("2",'*',10,'=',2*10)
 
+2nd method:
 a=int(input("Enter the number:"))
 print("2",'*',a,'=',2*a)
 
